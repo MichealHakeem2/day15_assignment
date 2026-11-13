@@ -1,0 +1,60 @@
+{
+  "list": [
+    {
+      "name": "Essence",
+      "emoji": "💄"
+    },
+    {
+      "name": "Glamour Beauty",
+      "emoji": "✨"
+    },
+    {
+      "name": "Velvet Touch",
+      "emoji": "🪞"
+    },
+    {
+      "name": "Chic Cosmetics",
+      "emoji": "👛"
+    },
+    {
+      "name": "Nail Couture",
+      "emoji": "💅"
+    },
+    {
+      "name": "Calvin Klein",
+      "emoji": "👔"
+    },
+    {
+      "name": "Chanel",
+      "emoji": "👗"
+    },
+    {
+      "name": "Dior",
+      "emoji": "👜"
+    },
+    {
+      "name": "Dolce & Gabbana",
+      "emoji": "👠"
+    },
+    {
+      "name": "Gucci",
+      "emoji": "🕶️"
+    },
+    {
+      "name": "Annibale Colombo",
+      "emoji": "🛋️"
+    },
+    {
+      "name": "Furniture Co.",
+      "emoji": "🪑"
+    },
+    {
+      "name": "Knoll",
+      "emoji": "🏢"
+    },
+    {
+      "name": "Bath Trends",
+      "emoji": "🛁"
+    }
+  ]
+}
